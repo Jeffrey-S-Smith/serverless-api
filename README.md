@@ -1,7 +1,5 @@
 # serverless-api
 
-# serverless-api
-
 Deployed Link: 
 
 ## Overview
